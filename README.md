@@ -1,4 +1,4 @@
-# python-time-in-week
+# python-work-time
 
 - Pequeno script de python p/ interpretar os valores dos campos de hora trabalha na empresa, visto que acontece que quando se bate pontos adicionais eles ainda não são contabilizados por inteiro na contagem final. Portanto fiz um script so p/ ler e transformar tudo em minutos e subtrair e tomar quantas horas já foram feitas ao final.
 
