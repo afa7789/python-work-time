@@ -17,12 +17,23 @@ for i in range(1,len(sys.argv)):
 	lines = text_file.readlines()
 	entrada=[]
 	saida=[]
+	marcado=''
 	for i in lines:
 		tup = i.split('\t')
-		if ":" not in tup[3]:
-			continue
-		entrada.append(tup[2])
-		saida.append(tup[3])
+		if ( len(tup) < 4 ):
+			tup = i.split(' ')
+			if (marcado == ''):
+				for i in range(0,len(tup)):
+					if '/' in tup[i]:
+						marcado=i
+			if ( len(tup) >= marcado+3 and ":" in tup[marcado+2] ) :
+				entrada.append(tup[marcado+1])
+				saida.append(tup[marcado+2])
+		else:
+			if ":" not in tup[3]:
+				continue
+			entrada.append(tup[2])
+			saida.append(tup[3])
 
 	entrada = stringToInt(entrada)
 	saida = stringToInt(saida)
