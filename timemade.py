@@ -19,6 +19,8 @@ for i in range(1,len(sys.argv)):
 	saida=[]
 	for i in lines:
 		tup = i.split('\t')
+		if ":" not in tup[3]:
+			continue
 		entrada.append(tup[2])
 		saida.append(tup[3])
 
