@@ -1,4 +1,5 @@
 import operator
+import sys
 
 def stringToInt(vetorString):
 	retorno = []
@@ -9,17 +10,21 @@ def stringToInt(vetorString):
 		retorno.append(minutos)
 	return retorno
 
-text_file = open("file.txt", "r")
-lines = text_file.readlines()
-entrada=[]
-saida=[]
-for i in lines:
-	tup = i.split('\t')
-	entrada.append(tup[2])
-	saida.append(tup[3])
+soma=0;
 
-entrada = stringToInt(entrada)
-saida = stringToInt(saida)
-calculado = map(operator.sub, saida, entrada) # in python 3, list(map(operator.sub, saida, entrada))
+for i in range(1,len(sys.argv)):
+	text_file = open(sys.argv[i], "r")
+	lines = text_file.readlines()
+	entrada=[]
+	saida=[]
+	for i in lines:
+		tup = i.split('\t')
+		entrada.append(tup[2])
+		saida.append(tup[3])
 
-print str(sum(calculado)/60) + " horas " + str(sum(calculado)%60) + " minutos"
+	entrada = stringToInt(entrada)
+	saida = stringToInt(saida)
+	calculado = map(operator.sub, saida, entrada) # in python 3, list(map(operator.sub, saida, entrada))
+	soma+=sum(calculado)
+
+print str(soma/60) + " horas " + str(soma%60) + " minutos"

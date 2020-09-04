@@ -5,7 +5,9 @@
 - Para rodar :
  - `git clone https://github.com/afa7789/python-time-in-week.git contador`
  - `cd contador`
- - `python timemade.py`
+ - `python timemade.py file.txt`
+
+- Pode rodar com quantos arquivos quiser do mesmo formato , exemplo :  `python timemade.py file.txt file2.txt`
 
 exemplo de file.txt:
 
@@ -33,5 +35,5 @@ exemplo de file.txt:
 	exemplo	03/09/2020	15:17	17:35
 
 ## OBS: 
-- o arquivo é uma copia da tabela com mouse, feito no gestor da empresa. é apenas copiar e colar e nomear de file.txt
+- o arquivo é uma copia da tabela com mouse, feito no gestor da empresa. é apenas copiar e colar e nomear de algo file.txt
 - o padrão ali é ser separado por "\t".
