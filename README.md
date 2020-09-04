@@ -2,8 +2,8 @@
 
 - Pequeno script de python p/ interpretar os valores dos campos de hora trabalha na empresa, visto que acontece que quando se bate pontos adicionais eles ainda não são contabilizados por inteiro na contagem final. Portanto fiz um script so p/ ler e transformar tudo em minutos e subtrair e tomar quantas horas já foram feitas ao final.
 
-- Para rodar :
- - `git clone https://github.com/afa7789/python-time-in-week.git contador`
+Para rodar :
+ - `git clone https://github.com/afa7789/python-work-time.git contador`
  - `cd contador`
  - `python timemade.py file.txt`
 
@@ -35,5 +35,5 @@ exemplo de file.txt:
 	exemplo	03/09/2020	15:17	17:35
 
 ## OBS: 
-- o arquivo é uma copia da tabela com mouse, feito no gestor da empresa. é apenas copiar e colar e nomear de algo file.txt
+- o arquivo é uma copia da tabela com mouse, feito no gestor da empresa. é apenas copiar e colar e nomear de algo ,como file.txt
 - o padrão ali é ser separado por "\t".
