@@ -22,4 +22,4 @@ entrada = stringToInt(entrada)
 saida = stringToInt(saida)
 calculado = map(operator.sub, saida, entrada) # in python 3, list(map(operator.sub, saida, entrada))
 
-print sum(calculado)/60
+print str(sum(calculado)/60) + " horas " + str(sum(calculado)%60) + " minutos"
