@@ -34,6 +34,9 @@ exemplo de file.txt:
 	exemplo	03/09/2020	14:37	15:15		  
 	exemplo	03/09/2020	15:17	17:35
 
+Exemplo de resposta
+	> python timemade.py file.txt <br> 12 horas 5 minutos
+
 ## OBS: 
 - o arquivo é uma copia da tabela com mouse, feito no gestor da empresa. é apenas copiar e colar e nomear de algo ,como file.txt
 - o padrão ali é ser separado por "\t".
