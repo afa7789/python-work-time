@@ -7,6 +7,8 @@ Para rodar :
  - `cd contador`
  - `python timemade.py file.txt`
 
+ OBS: use python2 , se você tiver os 2 pythons no pc, para garrantir funcionamento.
+
 - Pode rodar com quantos arquivos quiser do mesmo formato , exemplo :  `python timemade.py file.txt file2.txt`
 
 exemplo de file.txt:
