@@ -20,6 +20,7 @@ for i in range(1,len(sys.argv)):
 	marcado=''
 	for i in lines:
 		tup = i.split('\t')
+		print tup
 		if ( len(tup) < 4 ):
 			tup = i.split(' ')
 			if (marcado == ''):
@@ -30,10 +31,14 @@ for i in range(1,len(sys.argv)):
 				entrada.append(tup[marcado+1])
 				saida.append(tup[marcado+2])
 		else:
-			if ":" not in tup[3]:
+			if (marcado == ''):
+				for i in range(0,len(tup)):
+					if '/' in tup[i]:
+						marcado=i
+			if ":" not in tup[marcado+2]:
 				continue
-			entrada.append(tup[2])
-			saida.append(tup[3])
+			entrada.append(tup[marcado+1])
+			saida.append(tup[marcado+2])
 
 	entrada = stringToInt(entrada)
 	saida = stringToInt(saida)
