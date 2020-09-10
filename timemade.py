@@ -20,7 +20,7 @@ for i in range(1,len(sys.argv)):
 	marcado=''
 	for i in lines:
 		tup = i.split('\t')
-		print tup
+		# print tup
 		if ( len(tup) < 4 ):
 			tup = i.split(' ')
 			if (marcado == ''):

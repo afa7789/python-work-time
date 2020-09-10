@@ -1,87 +1,11 @@
-Arthur de Freitas Abeilice 	27/07/2020 	09:17 	09:36 		  
-	Arthur de Freitas Abeilice 	27/07/2020 	10:46 	11:28 		  
-	Arthur de Freitas Abeilice 	27/07/2020 	11:42 	12:14 		  
-	Arthur de Freitas Abeilice 	27/07/2020 	12:36 	12:59 		  
-	Arthur de Freitas Abeilice 	27/07/2020 	13:41 	16:38 		  
-	Arthur de Freitas Abeilice 	27/07/2020 	16:38 	16:52 		  
-	Arthur de Freitas Abeilice 	28/07/2020 	13:03 	15:50 		  
-	Arthur de Freitas Abeilice 	28/07/2020 	16:04 	18:19 		  
-	Arthur de Freitas Abeilice 	28/07/2020 	18:19 	18:38 		  
-	Arthur de Freitas Abeilice 	29/07/2020 	09:25 	10:42 		  entrada
-	Arthur de Freitas Abeilice 	29/07/2020 	10:42 	11:44 		  
-	Arthur de Freitas Abeilice 	29/07/2020 	13:00 	13:19 		  entrada p ajudar o dudu
-	Arthur de Freitas Abeilice 	29/07/2020 	13:19 	13:29 		  
-	Arthur de Freitas Abeilice 	29/07/2020 	13:40 	17:37 		  
-	Arthur de Freitas Abeilice 	29/07/2020 	17:37 	18:55 		  
-	Arthur de Freitas Abeilice 	29/07/2020 	19:42 	19:44 		  
-	Arthur de Freitas Abeilice 	29/07/2020 	20:33 	20:44 		  
-	Arthur de Freitas Abeilice 	30/07/2020 	09:20 	11:50 		  O gestor não entrava
-	Arthur de Freitas Abeilice 	30/07/2020 	13:42 	15:00 		  
-	Arthur de Freitas Abeilice 	30/07/2020 	15:12 	15:13 		  
-	Arthur de Freitas Abeilice 	30/07/2020 	15:24 	15:37 		  
-	Arthur de Freitas Abeilice 	31/07/2020 	11:08 	11:36 		  
-	Arthur de Freitas Abeilice 	03/08/2020 	09:00 	10:24 		  correção de horário
-	Arthur de Freitas Abeilice 	03/08/2020 	12:57 	19:11 		  
-	Arthur de Freitas Abeilice 	04/08/2020 	11:17 	11:54 		  
-	Arthur de Freitas Abeilice 	04/08/2020 	13:04 	13:31 		  
-	Arthur de Freitas Abeilice 	04/08/2020 	13:49 	18:50 		  
-	Arthur de Freitas Abeilice 	04/08/2020 	19:02 	20:09 		  
-	Arthur de Freitas Abeilice 	04/08/2020 	20:09 	20:45 		  
-	Arthur de Freitas Abeilice 	05/08/2020 	09:37 	12:14 		  
-	Arthur de Freitas Abeilice 	05/08/2020 	13:40 	14:17 		  entrada apos almoço
-	Arthur de Freitas Abeilice 	05/08/2020 	14:17 	15:33 		  
-	Arthur de Freitas Abeilice 	05/08/2020 	15:33 	18:28 		  
-	Arthur de Freitas Abeilice 	05/08/2020 	19:14 	19:58 		  
-	Arthur de Freitas Abeilice 	06/08/2020 	09:46 	12:18 		  
-	Arthur de Freitas Abeilice 	06/08/2020 	12:48 	19:06 		  
-	Arthur de Freitas Abeilice 	06/08/2020 	19:06 	19:11 		  
-	Arthur de Freitas Abeilice 	06/08/2020 	19:11 	19:38 		  
-	Arthur de Freitas Abeilice 	06/08/2020 	20:17 	21:23 		  
-	Arthur de Freitas Abeilice 	07/08/2020 	08:14 	11:50 		  
-	Arthur de Freitas Abeilice 	07/08/2020 	12:42 	13:10 		  
-	Arthur de Freitas Abeilice 	07/08/2020 	14:16 	16:57 		  
-	Arthur de Freitas Abeilice 	07/08/2020 	17:22 	20:25 		  
-	Arthur de Freitas Abeilice 	07/08/2020 	20:25 	20:30 		  correção saida
-	Arthur de Freitas Abeilice 	08/08/2020 	09:58 	13:17 		  
-	Arthur de Freitas Abeilice 	08/08/2020 	14:50 	15:58 		  entrada , vistoria de kanbans c/ gitlab. esqueci de marcar
-	Arthur de Freitas Abeilice 	08/08/2020 	16:04 	17:01 		  
-	Arthur de Freitas Abeilice 	10/08/2020 	09:23 	10:37 		  
-	Arthur de Freitas Abeilice 	10/08/2020 	13:28 	17:49 		  
-	Arthur de Freitas Abeilice 	10/08/2020 	18:16 	19:39 		  
-	Arthur de Freitas Abeilice 	10/08/2020 	20:42 	21:38 		  
-	Arthur de Freitas Abeilice 	11/08/2020 	08:33 	08:47 		  
-	Arthur de Freitas Abeilice 	11/08/2020 	09:25 	11:47 		  
-	Arthur de Freitas Abeilice 	11/08/2020 	12:33 	17:02 		  
-	Arthur de Freitas Abeilice 	11/08/2020 	18:18 	18:45 		  
-	Arthur de Freitas Abeilice 	11/08/2020 	19:03 	19:05 		  
-	Arthur de Freitas Abeilice 	11/08/2020 	19:56 	20:42 		  
-	Arthur de Freitas Abeilice 	12/08/2020 	09:50 	12:30 		  entrada pela manhã
-	Arthur de Freitas Abeilice 	12/08/2020 	13:37 	17:41 		  
-	Arthur de Freitas Abeilice 	12/08/2020 	18:31 	19:45 		  
-	Arthur de Freitas Abeilice 	13/08/2020 	10:27 	12:53 		  
-	Arthur de Freitas Abeilice 	13/08/2020 	13:23 	16:40 		  
-	Arthur de Freitas Abeilice 	13/08/2020 	16:45 	16:54 		  
-	Arthur de Freitas Abeilice 	13/08/2020 	17:11 	18:02 		  esqueci de reentrar
-	Arthur de Freitas Abeilice 	13/08/2020 	18:02 	19:49 		  
-	Arthur de Freitas Abeilice 	14/08/2020 	10:49 	13:33 		  
-	Arthur de Freitas Abeilice 	14/08/2020 	14:40 	19:50 		  Falhou pedido de entrada , puts
-	Arthur de Freitas Abeilice 	15/08/2020 	09:54 	16:04 		  
-	Arthur de Freitas Abeilice 	15/08/2020 	16:58 	18:12 		  arrumando helpmotorista com leo serra e o hari
-	Arthur de Freitas Abeilice 	15/08/2020 	18:12 	19:08 		  saída após termino de expediente com hari
-	Arthur de Freitas Abeilice 	16/08/2020 	08:00 	16:00 		  dobro de horas do dia 15, como combinado com raphael e feito com o hari.
-	Arthur de Freitas Abeilice 	17/08/2020 	10:15 	12:42 		  
-	Arthur de Freitas Abeilice 	17/08/2020 	13:33 	19:52 		  
-	Arthur de Freitas Abeilice 	18/08/2020 	13:42 	20:38 		  
-	Arthur de Freitas Abeilice 	18/08/2020 	21:36 	21:43 		  
-	Arthur de Freitas Abeilice 	19/08/2020 	11:35 	12:42 		  
-	Arthur de Freitas Abeilice 	19/08/2020 	13:08 	14:03 		  volta após almoço
-	Arthur de Freitas Abeilice 	19/08/2020 	14:03 	17:54 		  
-	Arthur de Freitas Abeilice 	19/08/2020 	18:24 	20:20 		  
-	Arthur de Freitas Abeilice 	19/08/2020 	21:33 	21:43 		  saída ontem
-	Arthur de Freitas Abeilice 	20/08/2020 	12:33 	13:06 		  entrada hj, esqueci
-	Arthur de Freitas Abeilice 	20/08/2020 	13:06 	19:25 		  
-	Arthur de Freitas Abeilice 	21/08/2020 	10:22 	10:25 		  
-	Arthur de Freitas Abeilice 	21/08/2020 	12:03 	19:10 		  
-	Arthur de Freitas Abeilice 	24/08/2020 	10:28 	16:37 		  
-	Arthur de Freitas Abeilice 	25/08/2020 	13:03 	17:39 		  
-	Arthur de Freitas Abeilice 	25/08/2020 	17:39 	19:12 		  
+Arthur de Freitas Abeilice	08/09/2020	10:14	10:52		  
+Arthur de Freitas Abeilice	08/09/2020	10:55	11:15		  
+Arthur de Freitas Abeilice	08/09/2020	13:50	16:41		  
+Arthur de Freitas Abeilice	08/09/2020	18:39	18:58		  
+Arthur de Freitas Abeilice	09/09/2020	09:17	12:01		  
+Arthur de Freitas Abeilice	09/09/2020	13:21	14:36		  
+Arthur de Freitas Abeilice	09/09/2020	14:44	14:44		  
+Arthur de Freitas Abeilice	09/09/2020	14:47	17:33		  
+Arthur de Freitas Abeilice	09/09/2020	17:34	18:16		  
+Arthur de Freitas Abeilice	09/09/2020	18:19	18:21		  
+Arthur de Freitas Abeilice	09/09/2020	18:49	20:10
