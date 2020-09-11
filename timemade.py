@@ -1,6 +1,7 @@
 import operator
 import sys
 
+#trabalhando com string, aqui só faz a conversão p/ ter o tempo de forma fácil de ser comparada e trabalhada.
 def stringToInt(vetorString):
 	retorno = []
 	for i in vetorString:
@@ -19,6 +20,7 @@ for i in range(1,len(sys.argv)):
 	saida=[]
 	marcado=''
 	for i in lines:
+		# aqui ele separa a entrada com tabs, que é o padrão
 		tup = i.split('\t')
 		# print tup
 		if ( len(tup) < 4 ):
@@ -31,6 +33,7 @@ for i in range(1,len(sys.argv)):
 				entrada.append(tup[marcado+1])
 				saida.append(tup[marcado+2])
 		else:
+		# aqui ele separa a entrada com espaço, que é possível caso alguem adicione ou corrompa o arquivo de tempos padrão
 			if (marcado == ''):
 				for i in range(0,len(tup)):
 					if '/' in tup[i]:
